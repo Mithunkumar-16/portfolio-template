@@ -19,19 +19,19 @@ const socials: Social[] = [
   {
     id: "twitter",
     name: "Twitter",
-    url: "https://twitter.com/AnishDe12020",
+    url: "https://twitter.com/Mithunvenkanna",
     icon: <Twitterlogo color="#1DA1F2" />,
   },
   {
     id: "github",
     name: "GitHub",
-    url: "https://github.com/AnishDe12020",
+    url: "https://github.com/Mithunkumar-16",
     icon: <GitHubLogo />,
   },
   {
     id: "youtube",
     name: "YouTube",
-    url: "https://www.youtube.com/anishtechtutorials",
+    url: "https://www.youtube.com/channel/UC5FRZCYmJOahEGvmMCXC8Vw",
     icon: <YouTubeLogo color="#ff0000" />,
   },
   {
